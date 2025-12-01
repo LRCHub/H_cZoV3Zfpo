@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "SUNSET",
+  "base_artist": "Gottz",
+  "createdAt": "2025-12-01T05:45:14.310152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Girl / Sunset Town",
+      "artist": "Sweethearts of the Rodeo",
+      "has_synced": true,
+      "path": "select/01_Midnight_Girl___Sunset_Town_Sweethearts_of_the_Rodeo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunrise, Sunburn, Sunset",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/02_Sunrise,_Sunburn,_Sunset_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Into The Sunset - Instrumental",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/03_Into_The_Sunset_-_Instrumental_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Into The Sunset (feat. Bilmuri)",
+      "artist": "Dance Gavin Dance feat. Bilmuri",
+      "has_synced": true,
+      "path": "select/04_Into_The_Sunset_(feat._Bilmuri)_Dance_Gavin_Dance_feat._Bilmuri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Into The Sunset (feat. Bilmuri)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/05_Into_The_Sunset_(feat._Bilmuri)_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sunset Sunrise",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/06_Sunset_Sunrise_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "December Sunset",
+      "artist": "LexiconDon",
+      "has_synced": false,
+      "path": "select/07_December_Sunset_LexiconDon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Savannah Sunset (feat. Tinashe)",
+      "artist": "MadeinTYO feat. Tinashe",
+      "has_synced": true,
+      "path": "select/08_Savannah_Sunset_(feat._Tinashe)_MadeinTYO_feat._Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Savannah Sunset (ft. Tinashe)",
+      "artist": "MadeinTYO",
+      "has_synced": true,
+      "path": "select/09_Savannah_Sunset_(ft._Tinashe)_MadeinTYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "sunset river",
+      "artist": "santpoort",
+      "has_synced": false,
+      "path": "select/10_sunset_river_santpoort.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Damaged Sunset",
+      "artist": "Meg Baird feat. Mary Lattimore",
+      "has_synced": false,
+      "path": "select/11_Damaged_Sunset_Meg_Baird_feat._Mary_Lattimore.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Damaged Sunset",
+      "artist": "Meg Baird",
+      "has_synced": false,
+      "path": "select/12_Damaged_Sunset_Meg_Baird.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sunset Dreams",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/13_Sunset_Dreams_Clannad.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sunset",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/14_Sunset_Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "When the Shit Hits The Fan / Sunset Blvd.",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/15_When_the_Shit_Hits_The_Fan___Sunset_Blvd._Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "When The Shit Hits The Fan/Sunset Blvd",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/16_When_The_Shit_Hits_The_Fan_Sunset_Blvd_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Call On Me (Theme from \"South of Sunset\")",
+      "artist": "Glenn Frey",
+      "has_synced": false,
+      "path": "select/17_Call_On_Me_(Theme_from__South_of_Sunset_)_Glenn_Frey.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunset ～LOVE is ALL～",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Sunset_~LOVE_is_ALL~_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "SUN SET SUN",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_02_SUN_SET_SUN_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Sunset",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_03_Sunset_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "sunset",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_04_sunset_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Sunset ~LOVE is ALL~(Orchestra version)",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_05_Sunset_~LOVE_is_ALL~(Orchestra_version)_浜崎_あゆみ.txt"
+    }
+  ]
+}
